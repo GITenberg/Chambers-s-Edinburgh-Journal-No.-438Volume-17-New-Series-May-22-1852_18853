@@ -25,6 +25,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/5276
     wikipedia: http://en.wikipedia.org/wiki/Robert_Chambers_%28publisher_born_1802%29
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/18853#Chambers-s-Edinburgh-Journal-No.-438Volume-17-New-Series-May-22-1852
 gutenberg_bookshelf: Chambers's Edinburgh Journal
 gutenberg_issued: '2006-07-17'
 gutenberg_type: Text
